@@ -1,7 +1,0 @@
-{
-  "name": "Hello_World",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
